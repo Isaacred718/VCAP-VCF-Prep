@@ -1,0 +1,31 @@
+{
+  "name": "VCAP-VCF Prep",
+  "short_name": "VCAP-VCF Prep",
+  "description": "Unofficial study companion for the Advanced VMware Cloud Foundation 9 Administrator exam (3V0-11.26), leading to VMware Certified Advanced Professional - VMware Cloud Foundation Administrator. Every testable objective sits in Section 4 (Deploy, Configure, and Operate); Sections 1, 2, 3 and 5 carry no testable objectives in the current guide. Built from Broadcom's official exam guide (November 2026) and VCF 9 documentation areas. The vSphere Administration material also draws on the classic vSphere Virtual Machine Administration guide (ESXi 5.5, French edition), translated and rewritten for the durable VM fundamentals under objective 4.11; that book predates VCF, so treat it as grounding for VM concepts only, never for VCF 9 behavior.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060b07",
+  "theme_color": "#060b07",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
